@@ -1,26 +1,11 @@
 # Site settings
 title: Your awesome title
-<<<<<<< HEAD
-<<<<<<< HEAD
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
-=======
-=======
->>>>>>> 4386ce780c2eb1e5c44cba23f5ffec19fd258de7
 email: mark.seymour.ns@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 baseurl: ""
 url: "http://mseymour.github.com/"
 twitter_username: azuretan
 github_username:  mseymour
-<<<<<<< HEAD
->>>>>>> Rebuilding site using latest version of Jekyll
-=======
->>>>>>> 4386ce780c2eb1e5c44cba23f5ffec19fd258de7
 
 # Build settings
 markdown: kramdown
